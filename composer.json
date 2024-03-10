@@ -1,0 +1,24 @@
+{
+	"name": "jeremyrwross/query-monitor-image-sizes",
+	"type": "library",
+	"authors": [
+		{
+			"name": "Jeremy Ross",
+			"email": "jeremyrwross@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=7.4"
+	},
+	"require-dev": {
+		"squizlabs/php_codesniffer": "^3.9",
+		"wp-coding-standards/wpcs": "^3.0",
+		"phpcompatibility/php-compatibility": "^9.3",
+		"friendsofphp/php-cs-fixer": "^3.51"
+	},
+	"config": {
+		"allow-plugins": {
+			"dealerdirect/phpcodesniffer-composer-installer": true
+		}
+	}
+}

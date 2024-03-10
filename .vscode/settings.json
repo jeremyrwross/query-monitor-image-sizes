@@ -1,0 +1,23 @@
+{
+	"files.autoSave": "onWindowChange",
+	"editor.linkedEditing": true,
+	"editor.tabSize": 4,
+	"editor.detectIndentation": false,
+	"editor.formatOnSave": true,
+	"phpsab.standard": "./phpcs.xml",
+	"phpsab.snifferEnable": true,
+	"phpsab.executablePathCBF": "./vendor/bin/phpcbf",
+	"phpsab.executablePathCS": ".vendor/bin/phpcs",
+	"phpsab.snifferShowSources": true,
+	"phpsab.fixerArguments": [
+		"-n",
+		"--ignore=vendor/*"
+	],
+	"phpsab.snifferArguments": [
+		"-n",
+		"--ignore=vendor/*"
+	],
+	"[php]": {
+		"editor.defaultFormatter": "valeryanm.vscode-phpsab"
+	}
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ruleset name="WordPress Standards">
+  <description>Custom PHPCS ruleset for my WordPress plugin project.</description>
+
+  <!-- Use WordPress Coding Standards -->
+  <rule ref="WordPress"/>
+
+  <!-- Specify your PHP version -->
+  <config name="testVersion" value="7.4-"/>
+</ruleset>
