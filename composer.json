@@ -1,10 +1,21 @@
 {
 	"name": "jeremyrwross/query-monitor-image-sizes",
 	"type": "wordpress-plugin",
+	"license": "GPL-2.0-or-later",
+	"description": "A Query Monitor extension that adds a tab to show registered image sizes.",
+	"homepage": "https://jereross.com/query-monitor-image-sizes/",
+	"keywords": [
+		"wordpress",
+		"plugin",
+		"query monitor",
+		"image sizes",
+		"debugging"
+	],
 	"authors": [
 		{
 			"name": "Jeremy Ross",
-			"email": "jeremyrwross@gmail.com"
+			"email": "jeremyrwross@gmail.com",
+			"homepage": "https://jereross.com"
 		}
 	],
 	"require": {

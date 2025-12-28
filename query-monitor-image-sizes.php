@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Query Monitor: Image Sizes
  * Description: A Query Monitor extension that adds a tab to show registered image sizes.
- * Version: 1.0
+ * Version: 1.0.0
  * Plugin URI: https://github.com/jeremyrwross/qm-image-sizes
  * Author: Jeremy Ross
  * License: GPL v2 or later
